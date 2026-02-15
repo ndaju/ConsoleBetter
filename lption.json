@@ -1,0 +1,8 @@
+{
+  "name": "ConsoleBetter",
+  "version": "1.0.0",
+  "entry": "src/main.lp",
+  "description": "My first LPtion package",
+  "author": "Ryan",
+  "deps": {}
+}
